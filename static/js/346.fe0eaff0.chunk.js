@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkch0rd_arc=self.webpackChunkch0rd_arc||[]).push([[346],{346:function(c,e,f){c.exports=f.p+"static/media/Post8.f5bfff8576c48899dfde.md"}}]);
